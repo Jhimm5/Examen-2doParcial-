@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-crud{
+  align-items: center;
+  width: 600px;
+  height: 800px;
+  background-color: aqua;
+  display: flexbox;
+}
+
+.main-create{
+  border: 1px solid black;
+  padding: 30px;
+}
+
+.main-delete{
+
+  border: 1px solid black;
+  padding: 30px;
+}
+
+.main-read{
+
+  border: 1px solid black;
+  padding: 30px;
+}
+
+.main-update{
+  border: 1px solid black;
+  padding: 30px;
+}
